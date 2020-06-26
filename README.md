@@ -1,2 +1,3 @@
 # Traffic-Management-System
 It is a IOT based project for traffic control system made using arduino mega, ultrasonic sensors, rfid reader, lora-wan, led lights. The ultrasonic sensors are used to detect number and type of vehicles in a particular lane and accordingly changes the duration of traffic light in the particular lane depending on the type and number of vehicles. The RFID is used to detect emergency vehicles like police, ambulance, fire-brigades in a lane  and then changes the traffic light to green in the corresponding lane. All the information is sent through lora-wan to Arduino mega to do all the processing.
+Link: https://www.youtube.com/watch?v=0-kDXX-bqEM&feature=youtu.be
